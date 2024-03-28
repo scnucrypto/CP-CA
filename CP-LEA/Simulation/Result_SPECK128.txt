@@ -1,0 +1,310 @@
+------Partial Key Guess-----
+------Partial Key Guess-----
+------
+No.0 nibble: recoverd key = 0, encoding count = 6
+No.0 nibble: recoverd key = 4, encoding count = 6
+No.0 nibble: recoverd key = 8, encoding count = 6
+No.0 nibble: recoverd key = c, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 0, encoding count = 6
+No.1 nibble: recoverd key = 80, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 4, encoding count = 6
+No.1 nibble: recoverd key = 84, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 8, encoding count = 6
+No.1 nibble: recoverd key = 88, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = c, encoding count = 6
+No.1 nibble: recoverd key = 8c, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 0, encoding count: 6
+Verified key: 80, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 100, encoding count = 6
+No.2 nibble: recoverd key = 900, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 180, encoding count = 6
+No.2 nibble: recoverd key = 980, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 6
+Verified key: 900, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 100, encoding count = 6
+No.3 nibble: recoverd key = 8100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 900, encoding count = 6
+No.3 nibble: recoverd key = 8900, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 6
+Verified key: 8100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 20100, encoding count = 6
+No.4 nibble: recoverd key = a0100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 28100, encoding count = 6
+No.4 nibble: recoverd key = a8100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 20100, encoding count: 6
+Verified key: a0100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 20100, encoding count = 6
+No.5 nibble: recoverd key = 420100, encoding count = 6
+No.5 nibble: recoverd key = 820100, encoding count = 6
+No.5 nibble: recoverd key = c20100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = a0100, encoding count = 6
+No.5 nibble: recoverd key = 4a0100, encoding count = 6
+No.5 nibble: recoverd key = 8a0100, encoding count = 6
+No.5 nibble: recoverd key = ca0100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 20100, encoding count: 6
+Verified key: 420100, encoding count: 6
+Verified key: 820100, encoding count: 6
+Verified key: c20100, encoding count: 6
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3020100, encoding count = 6
+No.6 nibble: recoverd key = b020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3420100, encoding count = 6
+No.6 nibble: recoverd key = b420100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3820100, encoding count = 6
+No.6 nibble: recoverd key = b820100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3c20100, encoding count = 6
+No.6 nibble: recoverd key = bc20100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 3020100, encoding count: 6
+Verified key: b020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 3020100, encoding count = 6
+No.7 nibble: recoverd key = 83020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = b020100, encoding count = 6
+No.7 nibble: recoverd key = 8b020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 3020100, encoding count: 6
+Verified key: 83020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 403020100, encoding count = 6
+No.8 nibble: recoverd key = c03020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 483020100, encoding count = 6
+No.8 nibble: recoverd key = c83020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 403020100, encoding count: 6
+Verified key: c03020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = 403020100, encoding count = 6
+No.9 nibble: recoverd key = 8403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = c03020100, encoding count = 6
+No.9 nibble: recoverd key = 8c03020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 403020100, encoding count: 6
+Verified key: 8403020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 50403020100, encoding count = 6
+No.10 nibble: recoverd key = d0403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 58403020100, encoding count = 6
+No.10 nibble: recoverd key = d8403020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 50403020100, encoding count: 6
+Verified key: d0403020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = 50403020100, encoding count = 6
+No.11 nibble: recoverd key = 450403020100, encoding count = 6
+No.11 nibble: recoverd key = 850403020100, encoding count = 6
+No.11 nibble: recoverd key = c50403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = d0403020100, encoding count = 6
+No.11 nibble: recoverd key = 4d0403020100, encoding count = 6
+No.11 nibble: recoverd key = 8d0403020100, encoding count = 6
+No.11 nibble: recoverd key = cd0403020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 50403020100, encoding count: 6
+Verified key: 450403020100, encoding count: 6
+Verified key: 850403020100, encoding count: 6
+Verified key: c50403020100, encoding count: 6
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 6050403020100, encoding count = 6
+No.12 nibble: recoverd key = e050403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 6450403020100, encoding count = 6
+No.12 nibble: recoverd key = e450403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 6850403020100, encoding count = 6
+No.12 nibble: recoverd key = e850403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 6c50403020100, encoding count = 6
+No.12 nibble: recoverd key = ec50403020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 6050403020100, encoding count: 6
+Verified key: e050403020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 6050403020100, encoding count = 6
+No.13 nibble: recoverd key = 86050403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = e050403020100, encoding count = 6
+No.13 nibble: recoverd key = 8e050403020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 6050403020100, encoding count: 6
+Verified key: 86050403020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 706050403020100, encoding count = 6
+No.14 nibble: recoverd key = f06050403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 786050403020100, encoding count = 6
+No.14 nibble: recoverd key = f86050403020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 706050403020100, encoding count: 6
+Verified key: f06050403020100, encoding count: 6
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 706050403020100, encoding count = 6
+No.15 nibble: recoverd key = 4706050403020100, encoding count = 6
+No.15 nibble: recoverd key = 8706050403020100, encoding count = 6
+No.15 nibble: recoverd key = c706050403020100, encoding count = 6
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f06050403020100, encoding count = 6
+No.15 nibble: recoverd key = 4f06050403020100, encoding count = 6
+No.15 nibble: recoverd key = 8f06050403020100, encoding count = 6
+No.15 nibble: recoverd key = cf06050403020100, encoding count = 6
+------
+------Partial Key Verification-----
+------
+Verified key: 706050403020100, encoding count: 6
+Verified key: 4706050403020100, encoding count: 6
+Verified key: 8706050403020100, encoding count: 6
+Verified key: c706050403020100, encoding count: 6
+------
+Verified key count: 4
+------Possible Key-----
+706050403020100
+4706050403020100
+8706050403020100
+c706050403020100
+Count: 4
+
+------Final Key Verification-----
+key guess: 706050403020100, encoding count: 6
+------
+simulation WB-SPECK128 recoverd key: 706050403020100, encoding count: 6
+------
+simulation WB-SPECK128 recoverd key count: 1
+simulation WB-SPECK128 invoke times: 4416

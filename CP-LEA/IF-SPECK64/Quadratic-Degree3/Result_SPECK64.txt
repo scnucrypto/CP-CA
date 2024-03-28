@@ -1,0 +1,296 @@
+------Partial Key Guess-----
+------
+No.0 nibble: recoverd key = 0, encoding count = 8
+No.0 nibble: recoverd key = 4, encoding count = 8
+No.0 nibble: recoverd key = 8, encoding count = 8
+No.0 nibble: recoverd key = c, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 0, encoding count = 8
+No.1 nibble: recoverd key = 40, encoding count = 8
+No.1 nibble: recoverd key = 80, encoding count = 8
+No.1 nibble: recoverd key = c0, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 4, encoding count = 8
+No.1 nibble: recoverd key = 44, encoding count = 8
+No.1 nibble: recoverd key = 84, encoding count = 8
+No.1 nibble: recoverd key = c4, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 8, encoding count = 8
+No.1 nibble: recoverd key = 48, encoding count = 8
+No.1 nibble: recoverd key = 88, encoding count = 8
+No.1 nibble: recoverd key = c8, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = c, encoding count = 8
+No.1 nibble: recoverd key = 4c, encoding count = 8
+No.1 nibble: recoverd key = 8c, encoding count = 8
+No.1 nibble: recoverd key = cc, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 00, encoding count: 8
+Verified key: 40, encoding count: 8
+Verified key: 80, encoding count: 8
+Verified key: c0, encoding count: 8
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 100, encoding count = 8
+No.2 nibble: recoverd key = 500, encoding count = 8
+No.2 nibble: recoverd key = 900, encoding count = 8
+No.2 nibble: recoverd key = d00, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 140, encoding count = 8
+No.2 nibble: recoverd key = 540, encoding count = 8
+No.2 nibble: recoverd key = 940, encoding count = 8
+No.2 nibble: recoverd key = d40, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 180, encoding count = 8
+No.2 nibble: recoverd key = 580, encoding count = 8
+No.2 nibble: recoverd key = 980, encoding count = 8
+No.2 nibble: recoverd key = d80, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 1c0, encoding count = 8
+No.2 nibble: recoverd key = 5c0, encoding count = 8
+No.2 nibble: recoverd key = 9c0, encoding count = 8
+No.2 nibble: recoverd key = dc0, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 8
+Verified key: 500, encoding count: 8
+Verified key: 900, encoding count: 8
+Verified key: d00, encoding count: 8
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 100, encoding count = 8
+No.3 nibble: recoverd key = 4100, encoding count = 8
+No.3 nibble: recoverd key = 8100, encoding count = 8
+No.3 nibble: recoverd key = c100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 500, encoding count = 8
+No.3 nibble: recoverd key = 4500, encoding count = 8
+No.3 nibble: recoverd key = 8500, encoding count = 8
+No.3 nibble: recoverd key = c500, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 900, encoding count = 8
+No.3 nibble: recoverd key = 4900, encoding count = 8
+No.3 nibble: recoverd key = 8900, encoding count = 8
+No.3 nibble: recoverd key = c900, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d00, encoding count = 8
+No.3 nibble: recoverd key = 4d00, encoding count = 8
+No.3 nibble: recoverd key = 8d00, encoding count = 8
+No.3 nibble: recoverd key = cd00, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 8
+Verified key: 4100, encoding count: 8
+Verified key: 8100, encoding count: 8
+Verified key: c100, encoding count: 8
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 20100, encoding count = 8
+No.4 nibble: recoverd key = 60100, encoding count = 8
+No.4 nibble: recoverd key = a0100, encoding count = 8
+No.4 nibble: recoverd key = e0100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 24100, encoding count = 8
+No.4 nibble: recoverd key = 64100, encoding count = 8
+No.4 nibble: recoverd key = a4100, encoding count = 8
+No.4 nibble: recoverd key = e4100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 28100, encoding count = 8
+No.4 nibble: recoverd key = 68100, encoding count = 8
+No.4 nibble: recoverd key = a8100, encoding count = 8
+No.4 nibble: recoverd key = e8100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 2c100, encoding count = 8
+No.4 nibble: recoverd key = 6c100, encoding count = 8
+No.4 nibble: recoverd key = ac100, encoding count = 8
+No.4 nibble: recoverd key = ec100, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 20100, encoding count: 8
+Verified key: 60100, encoding count: 8
+Verified key: a0100, encoding count: 8
+Verified key: e0100, encoding count: 8
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 20100, encoding count = 8
+No.5 nibble: recoverd key = 420100, encoding count = 8
+No.5 nibble: recoverd key = 820100, encoding count = 8
+No.5 nibble: recoverd key = c20100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 60100, encoding count = 8
+No.5 nibble: recoverd key = 460100, encoding count = 8
+No.5 nibble: recoverd key = 860100, encoding count = 8
+No.5 nibble: recoverd key = c60100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = a0100, encoding count = 8
+No.5 nibble: recoverd key = 4a0100, encoding count = 8
+No.5 nibble: recoverd key = 8a0100, encoding count = 8
+No.5 nibble: recoverd key = ca0100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0100, encoding count = 8
+No.5 nibble: recoverd key = 4e0100, encoding count = 8
+No.5 nibble: recoverd key = 8e0100, encoding count = 8
+No.5 nibble: recoverd key = ce0100, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 20100, encoding count: 8
+Verified key: 420100, encoding count: 8
+Verified key: 820100, encoding count: 8
+Verified key: c20100, encoding count: 8
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3020100, encoding count = 8
+No.6 nibble: recoverd key = 7020100, encoding count = 8
+No.6 nibble: recoverd key = b020100, encoding count = 8
+No.6 nibble: recoverd key = f020100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3420100, encoding count = 8
+No.6 nibble: recoverd key = 7420100, encoding count = 8
+No.6 nibble: recoverd key = b420100, encoding count = 8
+No.6 nibble: recoverd key = f420100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3820100, encoding count = 8
+No.6 nibble: recoverd key = 7820100, encoding count = 8
+No.6 nibble: recoverd key = b820100, encoding count = 8
+No.6 nibble: recoverd key = f820100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 3c20100, encoding count = 8
+No.6 nibble: recoverd key = 7c20100, encoding count = 8
+No.6 nibble: recoverd key = bc20100, encoding count = 8
+No.6 nibble: recoverd key = fc20100, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 3020100, encoding count: 8
+Verified key: 7020100, encoding count: 8
+Verified key: b020100, encoding count: 8
+Verified key: f020100, encoding count: 8
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 3020100, encoding count = 8
+No.7 nibble: recoverd key = 23020100, encoding count = 8
+No.7 nibble: recoverd key = 43020100, encoding count = 8
+No.7 nibble: recoverd key = 63020100, encoding count = 8
+No.7 nibble: recoverd key = 83020100, encoding count = 8
+No.7 nibble: recoverd key = a3020100, encoding count = 8
+No.7 nibble: recoverd key = c3020100, encoding count = 8
+No.7 nibble: recoverd key = e3020100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 7020100, encoding count = 8
+No.7 nibble: recoverd key = 27020100, encoding count = 8
+No.7 nibble: recoverd key = 47020100, encoding count = 8
+No.7 nibble: recoverd key = 67020100, encoding count = 8
+No.7 nibble: recoverd key = 87020100, encoding count = 8
+No.7 nibble: recoverd key = a7020100, encoding count = 8
+No.7 nibble: recoverd key = c7020100, encoding count = 8
+No.7 nibble: recoverd key = e7020100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = b020100, encoding count = 8
+No.7 nibble: recoverd key = 2b020100, encoding count = 8
+No.7 nibble: recoverd key = 4b020100, encoding count = 8
+No.7 nibble: recoverd key = 6b020100, encoding count = 8
+No.7 nibble: recoverd key = 8b020100, encoding count = 8
+No.7 nibble: recoverd key = ab020100, encoding count = 8
+No.7 nibble: recoverd key = cb020100, encoding count = 8
+No.7 nibble: recoverd key = eb020100, encoding count = 8
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f020100, encoding count = 8
+No.7 nibble: recoverd key = 2f020100, encoding count = 8
+No.7 nibble: recoverd key = 4f020100, encoding count = 8
+No.7 nibble: recoverd key = 6f020100, encoding count = 8
+No.7 nibble: recoverd key = 8f020100, encoding count = 8
+No.7 nibble: recoverd key = af020100, encoding count = 8
+No.7 nibble: recoverd key = cf020100, encoding count = 8
+No.7 nibble: recoverd key = ef020100, encoding count = 8
+------
+------Partial Key Verification-----
+------
+Verified key: 3020100, encoding count: 8
+Verified key: 23020100, encoding count: 8
+Verified key: 43020100, encoding count: 8
+Verified key: 63020100, encoding count: 8
+Verified key: 83020100, encoding count: 8
+Verified key: a3020100, encoding count: 8
+Verified key: c3020100, encoding count: 8
+Verified key: e3020100, encoding count: 8
+------
+Verified key count: 8
+------Possible Key-----
+3020100
+23020100
+43020100
+63020100
+83020100
+a3020100
+c3020100
+e3020100
+Count: 8
+
+------Final Key Verification-----
+key guess: 3020100, encoding count: 8
+------
+IF-SPECK64 recoverd key: 3020100, encoding count: 8
+------
+IF-SPECK64 recoverd key count: 1
