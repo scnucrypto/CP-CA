@@ -1,0 +1,743 @@
+------Partial Key Guess-----
+------
+No.0 nibble: recoverd key = 0, encoding count = 125, correlation: 1.000000
+No.0 nibble: recoverd key = 8, encoding count = 125, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 0, encoding count = 122, correlation: 1.000000
+No.1 nibble: recoverd key = 80, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 8, encoding count = 122, correlation: 1.000000
+No.1 nibble: recoverd key = 88, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 0, encoding count: 128
+Verified key: 80, encoding count: 128
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 0, encoding count = 121, correlation: 1.000000
+No.2 nibble: recoverd key = 100, encoding count = 121, correlation: 1.000000
+No.2 nibble: recoverd key = 900, encoding count = 121, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 80, encoding count = 121, correlation: 1.000000
+No.2 nibble: recoverd key = 180, encoding count = 121, correlation: 1.000000
+No.2 nibble: recoverd key = 980, encoding count = 121, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 0, encoding count: 128
+Verified key: 100, encoding count: 128
+Verified key: 900, encoding count: 128
+------
+Verified key count: 3
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 0, encoding count = 119, correlation: 1.000000
+No.3 nibble: recoverd key = 8000, encoding count = 119, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 100, encoding count = 119, correlation: 1.000000
+No.3 nibble: recoverd key = 8100, encoding count = 119, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 900, encoding count = 119, correlation: 1.000000
+No.3 nibble: recoverd key = 8900, encoding count = 119, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 126
+Verified key: 8100, encoding count: 126
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 100, encoding count = 118, correlation: 1.000000
+No.4 nibble: recoverd key = 20100, encoding count = 118, correlation: 1.000000
+No.4 nibble: recoverd key = a0100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 8100, encoding count = 118, correlation: 1.000000
+No.4 nibble: recoverd key = 28100, encoding count = 118, correlation: 1.000000
+No.4 nibble: recoverd key = a8100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 127
+Verified key: 20100, encoding count: 127
+Verified key: a0100, encoding count: 127
+------
+Verified key count: 3
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 100, encoding count = 122, correlation: 1.000000
+No.5 nibble: recoverd key = 800100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 20100, encoding count = 122, correlation: 1.000000
+No.5 nibble: recoverd key = 820100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = a0100, encoding count = 122, correlation: 1.000000
+No.5 nibble: recoverd key = 8a0100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 20100, encoding count: 128
+Verified key: 820100, encoding count: 128
+------
+Verified key count: 3
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 100, encoding count = 125, correlation: 1.000000
+No.6 nibble: recoverd key = 3000100, encoding count = 125, correlation: 1.000000
+No.6 nibble: recoverd key = b000100, encoding count = 125, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 20100, encoding count = 125, correlation: 1.000000
+No.6 nibble: recoverd key = 3020100, encoding count = 125, correlation: 1.000000
+No.6 nibble: recoverd key = b020100, encoding count = 125, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 820100, encoding count = 125, correlation: 1.000000
+No.6 nibble: recoverd key = 3820100, encoding count = 125, correlation: 1.000000
+No.6 nibble: recoverd key = b820100, encoding count = 125, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 3000100, encoding count: 128
+Verified key: b000100, encoding count: 128
+Verified key: 3020100, encoding count: 128
+Verified key: b020100, encoding count: 128
+------
+Verified key count: 5
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 100, encoding count = 120, correlation: 1.000000
+No.7 nibble: recoverd key = 80000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 3000100, encoding count = 120, correlation: 1.000000
+No.7 nibble: recoverd key = 83000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = b000100, encoding count = 120, correlation: 1.000000
+No.7 nibble: recoverd key = 8b000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 3020100, encoding count = 120, correlation: 1.000000
+No.7 nibble: recoverd key = 83020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = b020100, encoding count = 120, correlation: 1.000000
+No.7 nibble: recoverd key = 8b020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 3000100, encoding count: 128
+Verified key: 83000100, encoding count: 128
+Verified key: 3020100, encoding count: 128
+Verified key: 83020100, encoding count: 128
+------
+Verified key count: 5
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = 400000100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = c00000100, encoding count = 123, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 3000100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = 403000100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = c03000100, encoding count = 123, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 83000100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = 483000100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = c83000100, encoding count = 123, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 3020100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = 403020100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = c03020100, encoding count = 123, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.8 nibble: recoverd key = 83020100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = 483020100, encoding count = 123, correlation: 1.000000
+No.8 nibble: recoverd key = c83020100, encoding count = 123, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 127
+Verified key: 400000100, encoding count: 127
+Verified key: c00000100, encoding count: 127
+Verified key: 403000100, encoding count: 127
+Verified key: c03000100, encoding count: 127
+Verified key: 403020100, encoding count: 127
+Verified key: c03020100, encoding count: 127
+------
+Verified key count: 7
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = 100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8000000100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = 400000100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8400000100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = c00000100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8c00000100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = 403000100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8403000100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = c03000100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8c03000100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = 403020100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8403020100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.9 nibble: recoverd key = c03020100, encoding count = 124, correlation: 1.000000
+No.9 nibble: recoverd key = 8c03020100, encoding count = 124, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 400000100, encoding count: 128
+Verified key: 8400000100, encoding count: 128
+Verified key: 403000100, encoding count: 128
+Verified key: 8403000100, encoding count: 128
+Verified key: 403020100, encoding count: 128
+Verified key: 8403020100, encoding count: 128
+------
+Verified key count: 7
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 50000000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d0000000100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 400000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 50400000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d0400000100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 8400000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 58400000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d8400000100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 403000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 50403000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d0403000100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 8403000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 58403000100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d8403000100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 403020100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 50403020100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d0403020100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.10 nibble: recoverd key = 8403020100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = 58403020100, encoding count = 118, correlation: 1.000000
+No.10 nibble: recoverd key = d8403020100, encoding count = 118, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 50000000100, encoding count: 128
+Verified key: d0000000100, encoding count: 128
+Verified key: 50400000100, encoding count: 128
+Verified key: d0400000100, encoding count: 128
+Verified key: 50403000100, encoding count: 128
+Verified key: d0403000100, encoding count: 128
+Verified key: 50403020100, encoding count: 128
+Verified key: d0403020100, encoding count: 128
+------
+Verified key count: 9
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = 100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 800000000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = 50000000100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 850000000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = d0000000100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 8d0000000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = 50400000100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 850400000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = d0400000100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 8d0400000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = 50403000100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 850403000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = d0403000100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 8d0403000100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = 50403020100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 850403020100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.11 nibble: recoverd key = d0403020100, encoding count = 122, correlation: 1.000000
+No.11 nibble: recoverd key = 8d0403020100, encoding count = 122, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 50000000100, encoding count: 128
+Verified key: 850000000100, encoding count: 128
+Verified key: 50400000100, encoding count: 128
+Verified key: 850400000100, encoding count: 128
+Verified key: 50403000100, encoding count: 128
+Verified key: 850403000100, encoding count: 128
+Verified key: 50403020100, encoding count: 128
+Verified key: 850403020100, encoding count: 128
+------
+Verified key count: 9
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6000000000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 50000000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6050000000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e050000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 850000000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6850000000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e850000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 50400000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6050400000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e050400000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 850400000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6850400000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e850400000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 50403000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6050403000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e050403000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 850403000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6850403000100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e850403000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 50403020100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6050403020100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e050403020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.12 nibble: recoverd key = 850403020100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = 6850403020100, encoding count = 120, correlation: 1.000000
+No.12 nibble: recoverd key = e850403020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 6000000000100, encoding count: 128
+Verified key: e000000000100, encoding count: 128
+Verified key: 6050000000100, encoding count: 128
+Verified key: e050000000100, encoding count: 128
+Verified key: 6050400000100, encoding count: 128
+Verified key: e050400000100, encoding count: 128
+Verified key: 6050403000100, encoding count: 128
+Verified key: e050403000100, encoding count: 128
+Verified key: 6050403020100, encoding count: 128
+Verified key: e050403020100, encoding count: 128
+------
+Verified key count: 11
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 80000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 6000000000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 86000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = e000000000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 8e000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 6050000000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 86050000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = e050000000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 8e050000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 6050400000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 86050400000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = e050400000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 8e050400000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 6050403000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 86050403000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = e050403000100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 8e050403000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = 6050403020100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 86050403020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.13 nibble: recoverd key = e050403020100, encoding count = 120, correlation: 1.000000
+No.13 nibble: recoverd key = 8e050403020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 127
+Verified key: 6000000000100, encoding count: 127
+Verified key: 86000000000100, encoding count: 127
+Verified key: 6050000000100, encoding count: 127
+Verified key: 86050000000100, encoding count: 127
+Verified key: 6050400000100, encoding count: 127
+Verified key: 86050400000100, encoding count: 127
+Verified key: 6050403000100, encoding count: 127
+Verified key: 86050403000100, encoding count: 127
+Verified key: 6050403020100, encoding count: 127
+Verified key: 86050403020100, encoding count: 127
+------
+Verified key count: 11
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 700000000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f00000000000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 6000000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 706000000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f06000000000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 86000000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 786000000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f86000000000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 6050000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 706050000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f06050000000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 86050000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 786050000000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f86050000000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 6050400000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 706050400000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f06050400000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 86050400000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 786050400000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f86050400000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 6050403000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 706050403000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f06050403000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 86050403000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 786050403000100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f86050403000100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 6050403020100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 706050403020100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f06050403020100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.14 nibble: recoverd key = 86050403020100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = 786050403020100, encoding count = 117, correlation: 1.000000
+No.14 nibble: recoverd key = f86050403020100, encoding count = 117, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 100, encoding count: 128
+Verified key: 700000000000100, encoding count: 128
+Verified key: f00000000000100, encoding count: 128
+Verified key: 706000000000100, encoding count: 128
+Verified key: f06000000000100, encoding count: 128
+Verified key: 706050000000100, encoding count: 128
+Verified key: f06050000000100, encoding count: 128
+Verified key: 706050400000100, encoding count: 128
+Verified key: f06050400000100, encoding count: 128
+Verified key: 706050403000100, encoding count: 128
+Verified key: f06050403000100, encoding count: 128
+Verified key: 706050403020100, encoding count: 128
+Verified key: f06050403020100, encoding count: 128
+------
+Verified key count: 13
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4000000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8000000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c000000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 700000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4700000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8700000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c700000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f00000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4f00000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8f00000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = cf00000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 706000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4706000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8706000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c706000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f06000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4f06000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8f06000000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = cf06000000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 706050000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4706050000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8706050000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c706050000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f06050000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4f06050000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8f06050000000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = cf06050000000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 706050400000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4706050400000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8706050400000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c706050400000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f06050400000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4f06050400000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8f06050400000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = cf06050400000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 706050403000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4706050403000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8706050403000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c706050403000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f06050403000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4f06050403000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8f06050403000100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = cf06050403000100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = 706050403020100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4706050403020100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8706050403020100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = c706050403020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.15 nibble: recoverd key = f06050403020100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 4f06050403020100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = 8f06050403020100, encoding count = 120, correlation: 1.000000
+No.15 nibble: recoverd key = cf06050403020100, encoding count = 120, correlation: 1.000000
+------
+------Partial Key Verification-----
+------
+Verified key: 700000000000100, encoding count: 127
+Verified key: 4700000000000100, encoding count: 127
+Verified key: 8700000000000100, encoding count: 127
+Verified key: c700000000000100, encoding count: 127
+Verified key: 706000000000100, encoding count: 127
+Verified key: 4706000000000100, encoding count: 127
+Verified key: 8706000000000100, encoding count: 127
+Verified key: c706000000000100, encoding count: 127
+Verified key: 706050000000100, encoding count: 127
+Verified key: 4706050000000100, encoding count: 127
+Verified key: 8706050000000100, encoding count: 127
+Verified key: c706050000000100, encoding count: 127
+Verified key: 706050400000100, encoding count: 127
+Verified key: 4706050400000100, encoding count: 127
+Verified key: 8706050400000100, encoding count: 127
+Verified key: c706050400000100, encoding count: 127
+Verified key: 706050403000100, encoding count: 127
+Verified key: 4706050403000100, encoding count: 127
+Verified key: 8706050403000100, encoding count: 127
+Verified key: c706050403000100, encoding count: 127
+Verified key: 706050403020100, encoding count: 127
+Verified key: 4706050403020100, encoding count: 127
+Verified key: 8706050403020100, encoding count: 127
+Verified key: c706050403020100, encoding count: 127
+------
+Verified key count: 24
+------Possible Key-----
+700000000000100
+4700000000000100
+8700000000000100
+c700000000000100
+706000000000100
+4706000000000100
+8706000000000100
+c706000000000100
+706050000000100
+4706050000000100
+8706050000000100
+c706050000000100
+706050400000100
+4706050400000100
+8706050400000100
+c706050400000100
+706050403000100
+4706050403000100
+8706050403000100
+c706050403000100
+706050403020100
+4706050403020100
+8706050403020100
+c706050403020100
+Count: 24
+
+------Final Key Verification-----
+key guess: 706000000000100, encoding count: 62, correlation: 1.000000
+key guess: 8706000000000100, encoding count: 65, correlation: 1.000000
+key guess: 4706050000000100, encoding count: 65, correlation: 1.000000
+key guess: c706050000000100, encoding count: 65, correlation: 1.000000
+key guess: 4706050400000100, encoding count: 68, correlation: 1.000000
+key guess: c706050400000100, encoding count: 68, correlation: 1.000000
+key guess: 706050403020100, encoding count: 117, correlation: 1.000000
+------
+simulation WB-SPECK128 recoverd key: 706050403020100, encoding count: 117
+------
+simulation WB-SPECK128 recoverd key count: 1
