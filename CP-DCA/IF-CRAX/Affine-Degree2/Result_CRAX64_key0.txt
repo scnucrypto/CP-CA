@@ -1,0 +1,279 @@
+------Partial Key Guess-----
+------
+No.0 nibble: recoverd key = 0, encoding count = 59, correlation: 1.000000
+No.0 nibble: recoverd key = c, encoding count = 59, correlation: 1.000000
+No.0 nibble: recoverd key = d, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 0, encoding count = 57, correlation: 1.000000
+No.1 nibble: recoverd key = f0, encoding count = 57, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = c, encoding count = 57, correlation: 1.000000
+No.1 nibble: recoverd key = fc, encoding count = 57, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = d, encoding count = 57, correlation: 1.000000
+No.1 nibble: recoverd key = fd, encoding count = 57, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: 00, encoding count: 63
+Verified key: 0c, encoding count: 63
+Verified key: 0d, encoding count: 63
+------
+IF-CRAX64 Verified key count: 3
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 0, encoding count = 62, correlation: 1.000000
+No.2 nibble: recoverd key = c00, encoding count = 62, correlation: 1.000000
+No.2 nibble: recoverd key = d00, encoding count = 62, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = c, encoding count = 62, correlation: 1.000000
+No.2 nibble: recoverd key = c0c, encoding count = 62, correlation: 1.000000
+No.2 nibble: recoverd key = d0c, encoding count = 62, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = d, encoding count = 62, correlation: 1.000000
+No.2 nibble: recoverd key = c0d, encoding count = 62, correlation: 1.000000
+No.2 nibble: recoverd key = d0d, encoding count = 62, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: 00, encoding count: 63
+Verified key: d00, encoding count: 63
+Verified key: d0c, encoding count: 63
+Verified key: d0d, encoding count: 63
+------
+IF-CRAX64 Verified key count: 4
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 0, encoding count = 62, correlation: 1.000000
+No.3 nibble: recoverd key = f000, encoding count = 62, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d00, encoding count = 62, correlation: 1.000000
+No.3 nibble: recoverd key = fd00, encoding count = 62, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d0c, encoding count = 62, correlation: 1.000000
+No.3 nibble: recoverd key = fd0c, encoding count = 62, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d0d, encoding count = 62, correlation: 1.000000
+No.3 nibble: recoverd key = fd0d, encoding count = 62, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: 00, encoding count: 63
+Verified key: d00, encoding count: 63
+Verified key: d0c, encoding count: 63
+Verified key: d0d, encoding count: 63
+------
+IF-CRAX64 Verified key count: 4
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 0, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = e0000, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = f0000, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = d00, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = e0d00, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = f0d00, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = d0c, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = e0d0c, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = f0d0c, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = d0d, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = e0d0d, encoding count = 59, correlation: 1.000000
+No.4 nibble: recoverd key = f0d0d, encoding count = 59, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: 00, encoding count: 64
+Verified key: e0000, encoding count: 64
+Verified key: e0d00, encoding count: 64
+Verified key: e0d0c, encoding count: 64
+Verified key: e0d0d, encoding count: 64
+------
+IF-CRAX64 Verified key count: 5
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 0, encoding count = 59, correlation: 1.000000
+No.5 nibble: recoverd key = e00000, encoding count = 59, correlation: 1.000000
+No.5 nibble: recoverd key = f00000, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0000, encoding count = 59, correlation: 1.000000
+No.5 nibble: recoverd key = fe0000, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d00, encoding count = 59, correlation: 1.000000
+No.5 nibble: recoverd key = fe0d00, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d0c, encoding count = 59, correlation: 1.000000
+No.5 nibble: recoverd key = fe0d0c, encoding count = 59, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d0d, encoding count = 59, correlation: 1.000000
+No.5 nibble: recoverd key = fe0d0d, encoding count = 59, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: e0000, encoding count: 64
+Verified key: e0d00, encoding count: 64
+Verified key: e0d0c, encoding count: 64
+Verified key: e0d0d, encoding count: 64
+------
+IF-CRAX64 Verified key count: 4
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = e0000, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = e0e0000, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = f0e0000, encoding count = 56, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = e0d00, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = e0e0d00, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = f0e0d00, encoding count = 56, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = e0d0c, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = e0e0d0c, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = f0e0d0c, encoding count = 56, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = e0d0d, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = e0e0d0d, encoding count = 56, correlation: 1.000000
+No.6 nibble: recoverd key = f0e0d0d, encoding count = 56, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: e0000, encoding count: 64
+Verified key: f0e0000, encoding count: 64
+Verified key: f0e0d00, encoding count: 64
+Verified key: f0e0d0c, encoding count: 64
+Verified key: f0e0d0d, encoding count: 64
+------
+IF-CRAX64 Verified key count: 5
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 200e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 300e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 600e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 700e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = a00e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = b00e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = e00e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = f00e0000, encoding count = 60, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 3f0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 4f0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 7f0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 8f0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = bf0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = cf0e0000, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = ff0e0000, encoding count = 60, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 3f0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 4f0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 7f0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 8f0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = bf0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = cf0e0d00, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = ff0e0d00, encoding count = 60, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 3f0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 4f0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 7f0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = 8f0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = bf0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = cf0e0d0c, encoding count = 60, correlation: 1.000000
+No.7 nibble: recoverd key = ff0e0d0c, encoding count = 60, correlation: 1.000000
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = 3f0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = 4f0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = 7f0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = 8f0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = bf0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = cf0e0d0d, encoding count = 61, correlation: 1.000000
+No.7 nibble: recoverd key = ff0e0d0d, encoding count = 61, correlation: 1.000000
+------
+------Real Key Check-----
+------
+Verified key: e0000, encoding count: 64
+Verified key: f0e0000, encoding count: 64
+Verified key: 4f0e0000, encoding count: 64
+Verified key: 8f0e0000, encoding count: 64
+Verified key: cf0e0000, encoding count: 64
+Verified key: f0e0d00, encoding count: 64
+Verified key: 4f0e0d00, encoding count: 64
+Verified key: 8f0e0d00, encoding count: 64
+Verified key: cf0e0d00, encoding count: 64
+Verified key: f0e0d0c, encoding count: 64
+Verified key: 4f0e0d0c, encoding count: 64
+Verified key: 8f0e0d0c, encoding count: 64
+Verified key: cf0e0d0c, encoding count: 64
+Verified key: f0e0d0d, encoding count: 64
+Verified key: 4f0e0d0d, encoding count: 64
+Verified key: 8f0e0d0d, encoding count: 64
+Verified key: cf0e0d0d, encoding count: 64
+------
+IF-CRAX64 Verified key count: 17
+------Possible Key-----
+e0000
+f0e0000
+4f0e0000
+8f0e0000
+cf0e0000
+f0e0d00
+4f0e0d00
+8f0e0d00
+cf0e0d00
+f0e0d0c
+4f0e0d0c
+8f0e0d0c
+cf0e0d0c
+f0e0d0d
+4f0e0d0d
+8f0e0d0d
+cf0e0d0d
+Count: 17
+

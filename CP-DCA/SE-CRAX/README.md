@@ -1,6 +1,6 @@
-# CP-LEA simulation against SE-SPECK and IF-SPECK
+# CP-DCA against SE-CRAX64-K128
 
-This is a script for CP-LEA simulation against SE-SPECK and IF-SPECK.
+This is a script for CP-DCA against a self-equivalence white-box CRAX implementation. The SE-CRAX is constructed with block size 64 and key size 128. The encodings are affine self-equivalences.
 
 # Experiment Environment
 Windows 10
@@ -23,5 +23,5 @@ $ mingw32-make
 ## Run
 
 ```
-$ .\CPLEA.exe
+$ .\CPDCA.exe
 ```
