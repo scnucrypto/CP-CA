@@ -1,0 +1,146 @@
+------Partial Key Guess-----
+------
+No.0 nibble: recoverd key = c, encoding count = 32
+No.0 nibble: recoverd key = d, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = c, encoding count = 32
+No.1 nibble: recoverd key = fc, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = d, encoding count = 32
+No.1 nibble: recoverd key = fd, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: 0c, encoding count: 32
+SE-CRAX64 recoverd key: 0d, encoding count: 32
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = c0c, encoding count = 32
+No.2 nibble: recoverd key = d0c, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = c0d, encoding count = 32
+No.2 nibble: recoverd key = d0d, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: d0c, encoding count: 32
+SE-CRAX64 recoverd key: d0d, encoding count: 32
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d0c, encoding count = 32
+No.3 nibble: recoverd key = fd0c, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d0d, encoding count = 32
+No.3 nibble: recoverd key = fd0d, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: d0c, encoding count: 32
+SE-CRAX64 recoverd key: d0d, encoding count: 32
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = e0d0c, encoding count = 32
+No.4 nibble: recoverd key = f0d0c, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = e0d0d, encoding count = 32
+No.4 nibble: recoverd key = f0d0d, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: e0d0d, encoding count: 32
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d0c, encoding count = 32
+No.5 nibble: recoverd key = fe0d0c, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d0d, encoding count = 32
+No.5 nibble: recoverd key = fe0d0d, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: e0d0d, encoding count: 32
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = e0e0d0c, encoding count = 32
+No.6 nibble: recoverd key = f0e0d0c, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = e0e0d0d, encoding count = 32
+No.6 nibble: recoverd key = f0e0d0d, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: f0e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: f0e0d0d, encoding count: 32
+------
+Verified key count: 2
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = 3f0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = 4f0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = 7f0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = 8f0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = bf0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = cf0e0d0c, encoding count = 32
+No.7 nibble: recoverd key = ff0e0d0c, encoding count = 32
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = 3f0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = 4f0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = 7f0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = 8f0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = bf0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = cf0e0d0d, encoding count = 32
+No.7 nibble: recoverd key = ff0e0d0d, encoding count = 32
+------
+------Partial Key Verification-----
+------
+SE-CRAX64 recoverd key: f0e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: 4f0e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: 8f0e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: cf0e0d0c, encoding count: 32
+SE-CRAX64 recoverd key: f0e0d0d, encoding count: 32
+SE-CRAX64 recoverd key: 4f0e0d0d, encoding count: 32
+SE-CRAX64 recoverd key: 8f0e0d0d, encoding count: 32
+SE-CRAX64 recoverd key: cf0e0d0d, encoding count: 32
+------
+Verified key count: 8
+------Possible Key-----
+f0e0d0c
+4f0e0d0c
+8f0e0d0c
+cf0e0d0c
+f0e0d0d
+4f0e0d0d
+8f0e0d0d
+cf0e0d0d
+Count: 8
+

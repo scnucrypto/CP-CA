@@ -1,0 +1,370 @@
+------Partial Key Guess-----
+------
+No.0 nibble: recoverd key = 4, encoding count = 9
+No.0 nibble: recoverd key = 5, encoding count = 9
+No.0 nibble: recoverd key = c, encoding count = 9
+No.0 nibble: recoverd key = d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 4, encoding count = 9
+No.1 nibble: recoverd key = 74, encoding count = 9
+No.1 nibble: recoverd key = 84, encoding count = 9
+No.1 nibble: recoverd key = f4, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = 5, encoding count = 9
+No.1 nibble: recoverd key = 75, encoding count = 9
+No.1 nibble: recoverd key = 85, encoding count = 9
+No.1 nibble: recoverd key = f5, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = c, encoding count = 9
+No.1 nibble: recoverd key = 7c, encoding count = 9
+No.1 nibble: recoverd key = 8c, encoding count = 9
+No.1 nibble: recoverd key = fc, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.1 nibble: recoverd key = d, encoding count = 9
+No.1 nibble: recoverd key = 7d, encoding count = 9
+No.1 nibble: recoverd key = 8d, encoding count = 9
+No.1 nibble: recoverd key = fd, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: 0c, encoding count: 9
+IF-CRAX64 recoverd key: 8c, encoding count: 9
+IF-CRAX64 recoverd key: 0d, encoding count: 9
+IF-CRAX64 recoverd key: 8d, encoding count: 9
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 40c, encoding count = 9
+No.2 nibble: recoverd key = 50c, encoding count = 9
+No.2 nibble: recoverd key = c0c, encoding count = 9
+No.2 nibble: recoverd key = d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 48c, encoding count = 9
+No.2 nibble: recoverd key = 58c, encoding count = 9
+No.2 nibble: recoverd key = c8c, encoding count = 9
+No.2 nibble: recoverd key = d8c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 40d, encoding count = 9
+No.2 nibble: recoverd key = 50d, encoding count = 9
+No.2 nibble: recoverd key = c0d, encoding count = 9
+No.2 nibble: recoverd key = d0d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.2 nibble: recoverd key = 48d, encoding count = 9
+No.2 nibble: recoverd key = 58d, encoding count = 9
+No.2 nibble: recoverd key = c8d, encoding count = 9
+No.2 nibble: recoverd key = d8d, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: 50c, encoding count: 9
+IF-CRAX64 recoverd key: d0c, encoding count: 9
+IF-CRAX64 recoverd key: 50d, encoding count: 9
+IF-CRAX64 recoverd key: d0d, encoding count: 9
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 50c, encoding count = 9
+No.3 nibble: recoverd key = 750c, encoding count = 9
+No.3 nibble: recoverd key = 850c, encoding count = 9
+No.3 nibble: recoverd key = f50c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d0c, encoding count = 9
+No.3 nibble: recoverd key = 7d0c, encoding count = 9
+No.3 nibble: recoverd key = 8d0c, encoding count = 9
+No.3 nibble: recoverd key = fd0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = 50d, encoding count = 9
+No.3 nibble: recoverd key = 750d, encoding count = 9
+No.3 nibble: recoverd key = 850d, encoding count = 9
+No.3 nibble: recoverd key = f50d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.3 nibble: recoverd key = d0d, encoding count = 9
+No.3 nibble: recoverd key = 7d0d, encoding count = 9
+No.3 nibble: recoverd key = 8d0d, encoding count = 9
+No.3 nibble: recoverd key = fd0d, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: d0c, encoding count: 9
+IF-CRAX64 recoverd key: 8d0c, encoding count: 9
+IF-CRAX64 recoverd key: d0d, encoding count: 9
+IF-CRAX64 recoverd key: 8d0d, encoding count: 9
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 60d0c, encoding count = 9
+No.4 nibble: recoverd key = 70d0c, encoding count = 9
+No.4 nibble: recoverd key = e0d0c, encoding count = 9
+No.4 nibble: recoverd key = f0d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 68d0c, encoding count = 9
+No.4 nibble: recoverd key = 78d0c, encoding count = 9
+No.4 nibble: recoverd key = e8d0c, encoding count = 9
+No.4 nibble: recoverd key = f8d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 60d0d, encoding count = 9
+No.4 nibble: recoverd key = 70d0d, encoding count = 9
+No.4 nibble: recoverd key = e0d0d, encoding count = 9
+No.4 nibble: recoverd key = f0d0d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.4 nibble: recoverd key = 68d0d, encoding count = 9
+No.4 nibble: recoverd key = 78d0d, encoding count = 9
+No.4 nibble: recoverd key = e8d0d, encoding count = 9
+No.4 nibble: recoverd key = f8d0d, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: 60d0c, encoding count: 9
+IF-CRAX64 recoverd key: e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 60d0d, encoding count: 9
+IF-CRAX64 recoverd key: e0d0d, encoding count: 9
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 60d0c, encoding count = 9
+No.5 nibble: recoverd key = 760d0c, encoding count = 9
+No.5 nibble: recoverd key = 860d0c, encoding count = 9
+No.5 nibble: recoverd key = f60d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d0c, encoding count = 9
+No.5 nibble: recoverd key = 7e0d0c, encoding count = 9
+No.5 nibble: recoverd key = 8e0d0c, encoding count = 9
+No.5 nibble: recoverd key = fe0d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = 60d0d, encoding count = 9
+No.5 nibble: recoverd key = 760d0d, encoding count = 9
+No.5 nibble: recoverd key = 860d0d, encoding count = 9
+No.5 nibble: recoverd key = f60d0d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.5 nibble: recoverd key = e0d0d, encoding count = 9
+No.5 nibble: recoverd key = 7e0d0d, encoding count = 9
+No.5 nibble: recoverd key = 8e0d0d, encoding count = 9
+No.5 nibble: recoverd key = fe0d0d, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 8e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 8e0d0d, encoding count: 9
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 60e0d0c, encoding count = 9
+No.6 nibble: recoverd key = 70e0d0c, encoding count = 9
+No.6 nibble: recoverd key = e0e0d0c, encoding count = 9
+No.6 nibble: recoverd key = f0e0d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 68e0d0c, encoding count = 9
+No.6 nibble: recoverd key = 78e0d0c, encoding count = 9
+No.6 nibble: recoverd key = e8e0d0c, encoding count = 9
+No.6 nibble: recoverd key = f8e0d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 60e0d0d, encoding count = 9
+No.6 nibble: recoverd key = 70e0d0d, encoding count = 9
+No.6 nibble: recoverd key = e0e0d0d, encoding count = 9
+No.6 nibble: recoverd key = f0e0d0d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.6 nibble: recoverd key = 68e0d0d, encoding count = 9
+No.6 nibble: recoverd key = 78e0d0d, encoding count = 9
+No.6 nibble: recoverd key = e8e0d0d, encoding count = 9
+No.6 nibble: recoverd key = f8e0d0d, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: 70e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 70e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: f0e0d0d, encoding count: 9
+------
+Verified key count: 4
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 70e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 170e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 270e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 370e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 470e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 570e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 670e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 770e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 870e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 970e0d0c, encoding count = 9
+No.7 nibble: recoverd key = a70e0d0c, encoding count = 9
+No.7 nibble: recoverd key = b70e0d0c, encoding count = 9
+No.7 nibble: recoverd key = c70e0d0c, encoding count = 9
+No.7 nibble: recoverd key = d70e0d0c, encoding count = 9
+No.7 nibble: recoverd key = e70e0d0c, encoding count = 9
+No.7 nibble: recoverd key = f70e0d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 1f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 2f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 3f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 4f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 5f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 6f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 7f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 8f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = 9f0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = af0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = bf0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = cf0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = df0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = ef0e0d0c, encoding count = 9
+No.7 nibble: recoverd key = ff0e0d0c, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = 70e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 170e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 270e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 370e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 470e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 570e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 670e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 770e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 870e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 970e0d0d, encoding count = 9
+No.7 nibble: recoverd key = a70e0d0d, encoding count = 9
+No.7 nibble: recoverd key = b70e0d0d, encoding count = 9
+No.7 nibble: recoverd key = c70e0d0d, encoding count = 9
+No.7 nibble: recoverd key = d70e0d0d, encoding count = 9
+No.7 nibble: recoverd key = e70e0d0d, encoding count = 9
+No.7 nibble: recoverd key = f70e0d0d, encoding count = 9
+------
+------Partial Key Guess-----
+------
+No.7 nibble: recoverd key = f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 1f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 2f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 3f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 4f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 5f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 6f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 7f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 8f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = 9f0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = af0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = bf0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = cf0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = df0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = ef0e0d0d, encoding count = 9
+No.7 nibble: recoverd key = ff0e0d0d, encoding count = 9
+------
+------Partial Key Verification-----
+------
+IF-CRAX64 recoverd key: f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 1f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 2f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 3f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 4f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 5f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 6f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 7f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 8f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: 9f0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: af0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: bf0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: cf0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: df0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: ef0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: ff0e0d0c, encoding count: 9
+IF-CRAX64 recoverd key: f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 1f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 2f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 3f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 4f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 5f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 6f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 7f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 8f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: 9f0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: af0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: bf0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: cf0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: df0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: ef0e0d0d, encoding count: 9
+IF-CRAX64 recoverd key: ff0e0d0d, encoding count: 9
+------
+Verified key count: 32
+------Possible Key-----
+f0e0d0c
+1f0e0d0c
+2f0e0d0c
+3f0e0d0c
+4f0e0d0c
+5f0e0d0c
+6f0e0d0c
+7f0e0d0c
+8f0e0d0c
+9f0e0d0c
+af0e0d0c
+bf0e0d0c
+cf0e0d0c
+df0e0d0c
+ef0e0d0c
+ff0e0d0c
+f0e0d0d
+1f0e0d0d
+2f0e0d0d
+3f0e0d0d
+4f0e0d0d
+5f0e0d0d
+6f0e0d0d
+7f0e0d0d
+8f0e0d0d
+9f0e0d0d
+af0e0d0d
+bf0e0d0d
+cf0e0d0d
+df0e0d0d
+ef0e0d0d
+ff0e0d0d
+Count: 32
+
