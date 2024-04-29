@@ -151,4 +151,3 @@ key guess: 3020100, encoding count: 4
 simulation WB-SPECK64 recoverd key: 3020100, encoding count: 4
 ------
 simulation WB-SPECK64 recoverd key count: 1
-simulation WB-SPECK64 invoke times: 2056

@@ -307,4 +307,3 @@ key guess: 706050403020100, encoding count: 6
 simulation WB-SPECK128 recoverd key: 706050403020100, encoding count: 6
 ------
 simulation WB-SPECK128 recoverd key count: 1
-simulation WB-SPECK128 invoke times: 4416

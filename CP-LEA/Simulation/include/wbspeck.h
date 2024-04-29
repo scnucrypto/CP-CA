@@ -14,7 +14,7 @@
 
 #define ppt 6
 #define qpt 10
-#define tb32 32
+#define tb32 4
 #define tb64 4
 #define tb128 6
 static const u16 key16[4] = {0x1918, 0x1110, 0x0908, 0x0100};

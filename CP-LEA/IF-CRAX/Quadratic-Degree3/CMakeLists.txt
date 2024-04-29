@@ -10,6 +10,6 @@ add_library(CPLEA_LIB ${CPLEA_SRC})
 
 add_executable(CPLEA test/white_box_arx.c)
 
-target_link_libraries(CPLEA CPLEA_LIB)
+target_link_libraries(CPLEA CPLEA_LIB m)
 
 SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=c99 -O2")
